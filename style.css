@@ -1,0 +1,17 @@
+#nadpis{
+    text-align: center;
+    font-family: fantasy;
+}
+#seznam{
+    list-style-type:circle;
+}
+#menu{
+    font-weight: 900;
+}
+.obrazek{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 50%;
+    margin-top: 100px;
+}
