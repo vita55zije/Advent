@@ -3,26 +3,74 @@
     font-family: fantasy;
 }
 #seznam{
-    list-style-type:circle;
+    list-style-type:none;
+    text-align: center;
 }
 #menu{
     font-weight: 900;
-    background-color: blanchedalmond;
-    width: 300px;
+    background-color: gold;
+    width: 800px;
     height: auto;
     border: 0px solid;
-    border-radius: 20px;
+    border-radius: 5000px;
+    padding: 10px;
+    font-size: 20px;
+    margin-left: 27% ;
+    
+
+
 }
 .obrazek{
     margin-left: auto;
     margin-right: auto;
     display: block;
-    width: 50%;
+    width: 25%;
     margin-top: 100px;
+    border: 10px solid gold;
 }
 body{
-    background-color: lightcoral;
+    background-color: lightseagreen;
 }
-.head1{
+/* .head1{
     background-color: aquamarine;
+} */
+h1{
+    background-color: gold;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-width:thick;
+    border-radius: 30px;
+    text-align: center;
+    font-size: 50px;
+    color: darkblue
+    
+}
+nav{
+    text-align: center;
+    color: aquamarine;
+    font-size: 25px;
+    font-weight: 900;
+    background-color:silver;
+    padding: 5px;
+    margin-left: 40%;
+    margin-right:40%;
+    border-radius: 20px;
+}
+h2{
+    font-size: 60px;
+    color: gold;
+    border-left: 25vh;
+    text-align: center;
+}
+footer{
+    text-align: center;
+    font-size: 20px;
+    background-color: gold;
+    color: lightseagreen;
+    margin-left: 40%;
+    margin-right: 40%;
+    border-radius: 50px;
+    margin-top: 30px;
+    font-weight: 900;
+    
 }
